@@ -6,7 +6,11 @@
 
 ### Web Design & Development 💻:
 
-- Frontend:
+### Tech Stack:
+ ![Jamstack](https://img.shields.io/badge/-Jamstack-black?style=flat-square&logo=Jamstack) 
+
+ 
+### Frontend:
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
   ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
@@ -19,8 +23,11 @@
   ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
 ### Hosting Services and Web Tools:
-  ![vercel](https://img.shields.io/badge/-vercel-black?style=flat-square&logo=vercel)
-  ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
+ ![cloudflare](https://img.shields.io/badge/-cloudflare-black?style=flat-square&logo=cloudflare) 
+ ![HUGO](https://img.shields.io/badge/-HUGO-black?style=flat-square&logo=HUGO)
+ ![drivetoweb](https://img.shields.io/badge/-drivetoweb-black?style=flat-square&logo=drivetoweb)
+ ![vercel](https://img.shields.io/badge/-vercel-black?style=flat-square&logo=vercel)
+ ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
 
 ## DevOps 🛠️:
   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
