@@ -1,6 +1,6 @@
 ## Prince GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=855princekumar&show_icons=true&theme=dark)
 
 ## Languages & Frameworks & Skills 🌟:
 
