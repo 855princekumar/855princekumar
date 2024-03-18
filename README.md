@@ -71,5 +71,5 @@ Welcome to my Product Research and Development universe! Here's a glimpse of my 
   ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c)
 
 ## About Me 🚀
-
-I'm passionate about exploring innovative solutions and pushing the boundaries of technology in the realm of product research and development. Just started diving into the world of AI with TensorFlow! Feel free to connect and collaborate on exciting projects!
+Nothing special I'm just lazy and not so punctual tho unexpectedly! 
+I want automation in my life to do basic things so that I can ride my bike and when the fuel runs out I'll go with my MTB and then eat sleep and repeat!
