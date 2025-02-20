@@ -4,7 +4,7 @@
 
 Hello there! 👋 I'm Prince, a passionate **Product Research & Development Engineer** with a keen interest in **IoT, Embedded Systems, Edge Computing, and AI**. My GitHub is a dynamic space where I Dump my build/Test/ Deploy things I overthink, and I love building solutions that bridge the gap between hardware and software. 
 
-## 🌍 Let's Explore My Tech Contributions
+## 🌍 My Tech Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=855princekumar&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=855princekumar&layout=compact&theme=dark)
