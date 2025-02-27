@@ -20,21 +20,8 @@
 - 🏗️ **Developing** Smart Cities, Industrial IoT, and energy-efficient solutions.
 - 🤖 **Building & Automating** real-world applications that matter.
 
-## 📌 Noteworthy Projects
-- 🏙 **Smart City Infrastructure Monitoring** *(Raspberry Pi, ESP32, AI/ML)*
-- 🛰 **Remote Sensing with LoRa & IoT** *(Low-power long-range networking)*
-- 📷 **AI-Based Object Detection & Tracking** *(OpenCV, TensorFlow, Edge AI)*
-- 🌍 **Environmental Monitoring System** *(Air Quality, Water Level, Noise Sensors)*
-
-## 🌱 Let's Connect & Collaborate!
-🔗 [LinkedIn](https://www.linkedin.com/in/855princekumar)  
-📂 [Portfolio](#) *(Coming Soon!)*  
-💬 Open to **collaborations, freelance projects, and new challenges**! Feel free to explore my repositories, contribute, or reach out.
-
 ## 🎭 Beyond Work
 Other Stuff I love to do is:
 - 🚲 Riding MTB/ Bike & exploring nature trails
 - 🎮 Gaming & AR/VR experiments
-- 🎶 Vibing to music while debugging code
-
-
+- 🎶 Vibing to music while debugging code and build DIY elctronics 
