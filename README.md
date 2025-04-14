@@ -9,7 +9,7 @@
 
 ## 🛠️ Areas of Expertise
 
-### Technologies & Platforms:
+### Had Worked on this stuff and still Exploring:
 
 | **Embedded/ Robotics** | **IoT** | **Edge Computing** | **Game Development/ AR-VR** | **AI/ CV** | **CAD/ CAM** | **Web Dev** | **Database** | **DevOps & Others** |
 |-----------------------------------------|-------------------------------|--------------------|------------------------------|-----------------------------|-------------------|-------------------------------|--------------|----------------------|
