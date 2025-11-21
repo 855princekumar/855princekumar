@@ -1,4 +1,4 @@
-#   A bit about myself �
+#   A bit about myself 
 
 I'm into **Product Research & Development** with a keen interest in **IoT, Embedded Systems, Edge Computing, and AI**. I use my GitHub as a dynamic space where I dump my build/test/deploy things I overthink. I love building solutions that bridge the gap between hardware and software, and I am always open to brainstorming and discussing tech. 
 
