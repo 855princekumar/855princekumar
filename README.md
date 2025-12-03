@@ -1,11 +1,19 @@
 #   A bit about myself 
 
-I'm into **Product Research & Development** with a keen interest in **IoT, Embedded Systems, Edge Computing, and AI**. I use my GitHub as a dynamic space where I dump my build/test/deploy things I overthink. I love building solutions that bridge the gap between hardware and software, and I am always open to brainstorming and discussing tech. 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=855princekumar&theme=github_dark)
 
-##  My Tech Stats
+I'm into **Product Research & Development** with a keen interest in **IoT, Embedded Systems, Edge Computing, and AI**. I use GitHub as a playground for prototyping, testing, and refining ideas, where hardware meets software. I love building solutions that bridge the gap between hardware and software, and I am always open to brainstorming and discussing tech. 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=855princekumar&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=855princekumar&layout=compact&theme=dark)
+---
+##  Metrics from the Matrix
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=855princekumar&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=855princekumar&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=855princekumar&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=855princekumar&theme=github_dark&utcOffset=5)
+
+---
 
 ##  Areas of Expertise
 
