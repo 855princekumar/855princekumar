@@ -59,7 +59,7 @@ I enjoy collaborating on:
 - Embedded R&D
 - Experimental prototypes
 
-Feel free to reach out to exchange ideas or geek out on tech — I’m always open to brainstorming and working on impactful problems.
+Feel free to reach out to exchange ideas or geek out on tech, I’m always open to brainstorming and working on impactful problems.
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:855princekumar@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/855princekumar)
