@@ -21,10 +21,10 @@ I love building tools that bridge physical–digital worlds, and I am always ope
 
 ## My Projects Ecosystem Growth
 
-<a href="https://www.star-history.com/?repos=855princekumar/streampulse,855princekumar/sense-hive,855princekumar/PiStream-Lite&type=date&legend=top-left">
+<a href="https://www.star-history.com/?repos=855princekumar/streampulse,855princekumar/sense-hive,855princekumar/PiStream-Lite,855princekumar/ollama-lan-gateway,855princekumar/rtsp-kafka-ingestion-template,855princekumar/md2pdf&type=date&legend=top-left">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=855princekumar/streampulse,855princekumar/sense-hive,855princekumar/PiStream-Lite&type=date&legend=top-left&cache_bust=1" />
-    <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=855princekumar/streampulse,855princekumar/sense-hive,855princekumar/PiStream-Lite&type=date&legend=top-left&cache_bust=1"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=855princekumar/streampulse,855princekumar/sense-hive,855princekumar/PiStream-Lite,855princekumar/ollama-lan-gateway,855princekumar/rtsp-kafka-ingestion-template,855princekumar/md2pdf&type=date&legend=top-left&cache_bust=3" />
+    <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=855princekumar/streampulse,855princekumar/sense-hive,855princekumar/PiStream-Lite,855princekumar/ollama-lan-gateway,855princekumar/rtsp-kafka-ingestion-template,855princekumar/md2pdf&type=date&legend=top-left&cache_bust=3"/>
   </picture>
 </a>
 
