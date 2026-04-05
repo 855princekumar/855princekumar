@@ -19,6 +19,18 @@ I love building tools that bridge physical–digital worlds, and I am always ope
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=855princekumar\&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=855princekumar\&theme=github_dark\&utcOffset=5)
 
+## My Projects Ecosystem Growth
+
+<a href="https://www.star-history.com/?repos=855princekumar/streampulse,855princekumar/sense-hive,855princekumar/PiStream-Lite&type=date&legend=top-left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=855princekumar/streampulse,855princekumar/sense-hive,855princekumar/PiStream-Lite&type=date&theme=dark&legend=top-left&cache_bust=1" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=855princekumar/streampulse,855princekumar/sense-hive,855princekumar/PiStream-Lite&type=date&legend=top-left&cache_bust=1" />
+    <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=855princekumar/streampulse,855princekumar/sense-hive,855princekumar/PiStream-Lite&type=date&legend=top-left&cache_bust=1" />
+  </picture>
+</a>
+
+Tracking adoption and usage across my IoT + Streaming + Edge systems stack.
+
 ---
 
 ##  Areas of Expertise
